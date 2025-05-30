@@ -13,7 +13,6 @@ df = pd.DataFrame(data)
 
 # Streamlit app
 st.title('Monthly Sales Visualization')
-
 st.header('Therese is Awesome!')
 
 
