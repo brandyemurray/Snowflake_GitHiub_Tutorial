@@ -3,8 +3,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-#Header
-st.write("Therese is Awesome!")
 
 # Sample data creation
 data = {
@@ -15,6 +13,9 @@ df = pd.DataFrame(data)
 
 # Streamlit app
 st.title('Monthly Sales Visualization')
+
+st.header("Therese is Awesome!")
+
 
 # Display the dataframe
 st.header('Sales Data')
