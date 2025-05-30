@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 #Header
-st.write("Therese is Awesome!)
+st.write("Therese is Awesome!")
 
 # Sample data creation
 data = {
