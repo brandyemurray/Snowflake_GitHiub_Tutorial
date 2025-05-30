@@ -3,6 +3,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+#Header
+st.write("Therese is Awesome!)
+
 # Sample data creation
 data = {
     'Month': ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
