@@ -14,6 +14,7 @@ df = pd.DataFrame(data)
 # Streamlit app
 st.title('Monthly Sales Visualization')
 st.header('Therese is Awesome!')
+st.header('Adam is cool too!')
 
 
 # Display the dataframe
